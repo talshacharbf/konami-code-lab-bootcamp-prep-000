@@ -9,7 +9,7 @@ const key = parseInt(e.detail || e.which);
 
     if (index === code.length) {
       alert("Hurray!");
- 
+
       index = 0;
     }
   } else {
