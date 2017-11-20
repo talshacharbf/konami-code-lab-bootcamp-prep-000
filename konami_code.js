@@ -15,6 +15,4 @@ const key = parseInt(e.detail || e.which);
   } else {
     index = 0;
   }
-}// Write your JavaScript code inside the init() function
-
 }
